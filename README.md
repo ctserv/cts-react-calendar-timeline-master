@@ -6,6 +6,12 @@ A modern and responsive React timeline component.
 
 Checkout the [examples here](https://github.com/namespace-ee/react-calendar-timeline/tree/master/examples)!
 
+#CTServ Modification
+###############################################################
+  lib\lib\utility\calendar.js --> track "groupMinHeight"
+  lib\lib\Timeline.js --> track "groupMinHeight"
+ ##############################################################
+
 # Contents
 
 - [Getting Started](#getting-started)
